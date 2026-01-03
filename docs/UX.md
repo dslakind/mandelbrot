@@ -291,3 +291,7 @@ Future: Pinch-to-zoom, mobile-optimized UI layout.
 - **Memory**: < 500 MB (with multiple undo steps)
 
 No frame drops during interaction is the golden rule.
+
+## References
+- Base color palette inspiration and accessible defaults: Viridis colormap (CC0) from matplotlib — https://github.com/matplotlib/matplotlib/blob/main/lib/matplotlib/_cm_listed.py
+- Smooth coloring explanation: Wikipedia, "Mandelbrot set" — https://en.wikipedia.org/wiki/Mandelbrot_set#Continuous_(smooth)_coloring

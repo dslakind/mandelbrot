@@ -52,3 +52,8 @@ Vitest covers core math (Mandelbrot iteration, viewport transforms, palettes), s
 - Black canvas: check browser WebGL2 support (console errors). Ensure debug view is set to "None" for normal palettes.
 - Slow interaction: lower "Quality" or enable "Reduce Quality While Dragging".
 - Colors look flat: increase iterations or lower gamma (e.g., 0.8–1.2).
+
+## References
+- Vite React starter template (MIT): https://vitejs.dev/guide/
+- Smooth coloring formula (continuous iteration count): Wikipedia, "Mandelbrot set" — https://en.wikipedia.org/wiki/Mandelbrot_set#Continuous_(smooth)_coloring
+- Viridis colormap values from matplotlib (CC0): https://github.com/matplotlib/matplotlib/blob/main/lib/matplotlib/_cm_listed.py

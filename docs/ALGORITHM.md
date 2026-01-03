@@ -184,3 +184,7 @@ Users can add custom palettes via `addPalette(name, colorArray)`.
 - **Texture Sampling**: Palette lookup is a single `texture()` call per fragment
 
 Typical framerate: 60 FPS for 256 iterations at 1080p, drops to 15-30 FPS at 2048 iterations (Ultra quality).
+
+## References
+- Smooth coloring (continuous iteration count): Wikipedia, "Mandelbrot set" — https://en.wikipedia.org/wiki/Mandelbrot_set#Continuous_(smooth)_coloring
+- Viridis colormap control points: matplotlib (CC0) — https://github.com/matplotlib/matplotlib/blob/main/lib/matplotlib/_cm_listed.py
