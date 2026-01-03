@@ -1,0 +1,31 @@
+/* StatusBar styles */
+
+.status-bar {
+  display: flex;
+  align-items: center;
+  height: 32px;
+  background-color: #252526;
+  border-top: 1px solid #3e3e42;
+  padding: 0 16px;
+  gap: 24px;
+  font-size: 12px;
+  overflow-x: auto;
+}
+
+.status-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.status-item .label {
+  color: #858585;
+  font-weight: 500;
+}
+
+.status-item .value {
+  color: #e0e0e0;
+  font-weight: 500;
+}
