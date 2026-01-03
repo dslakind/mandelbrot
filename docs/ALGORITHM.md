@@ -188,3 +188,4 @@ Typical framerate: 60 FPS for 256 iterations at 1080p, drops to 15-30 FPS at 204
 ## References
 - Smooth coloring (continuous iteration count): Wikipedia, "Mandelbrot set" — https://en.wikipedia.org/wiki/Mandelbrot_set#Continuous_(smooth)_coloring
 - Viridis colormap control points: matplotlib (CC0) — https://github.com/matplotlib/matplotlib/blob/main/lib/matplotlib/_cm_listed.py
+- Algorithm documentation refined collaboratively by dslakind with AI assistance from GitHub Copilot (GPT-5.1-Codex-Max) in this chat session

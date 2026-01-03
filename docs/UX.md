@@ -295,3 +295,4 @@ No frame drops during interaction is the golden rule.
 ## References
 - Base color palette inspiration and accessible defaults: Viridis colormap (CC0) from matplotlib — https://github.com/matplotlib/matplotlib/blob/main/lib/matplotlib/_cm_listed.py
 - Smooth coloring explanation: Wikipedia, "Mandelbrot set" — https://en.wikipedia.org/wiki/Mandelbrot_set#Continuous_(smooth)_coloring
+- UX documentation authored collaboratively by dslakind with AI assistance from GitHub Copilot (GPT-5.1-Codex-Max) in this chat session

@@ -285,3 +285,4 @@ Quality presets balance visual quality vs. responsiveness. "Ultra" at 512 iterat
 - Vite React starter template (MIT): https://vitejs.dev/guide/
 - Smooth coloring approach: Wikipedia, "Mandelbrot set" — https://en.wikipedia.org/wiki/Mandelbrot_set#Continuous_(smooth)_coloring
 - Viridis colormap values (CC0) from matplotlib: https://github.com/matplotlib/matplotlib/blob/main/lib/matplotlib/_cm_listed.py
+- Architecture notes compiled collaboratively by dslakind with AI assistance from GitHub Copilot (GPT-5.1-Codex-Max) in this chat session

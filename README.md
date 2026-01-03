@@ -57,3 +57,4 @@ Vitest covers core math (Mandelbrot iteration, viewport transforms, palettes), s
 - Vite React starter template (MIT): https://vitejs.dev/guide/
 - Smooth coloring formula (continuous iteration count): Wikipedia, "Mandelbrot set" — https://en.wikipedia.org/wiki/Mandelbrot_set#Continuous_(smooth)_coloring
 - Viridis colormap values from matplotlib (CC0): https://github.com/matplotlib/matplotlib/blob/main/lib/matplotlib/_cm_listed.py
+- Implementation and documentation authored collaboratively by dslakind with AI assistance from GitHub Copilot (GPT-5.1-Codex-Max) during this chat session
